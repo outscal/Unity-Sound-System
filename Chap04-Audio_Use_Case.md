@@ -28,9 +28,13 @@ Steps to add an audio clip for a specific sounds in an organised manner using si
 ![Key_sound](https://user-images.githubusercontent.com/44625252/152987129-bd76d303-5af7-4316-a869-04e0cfbbbea4.png)
 
 Some useful inbuilt functions to play sound in unity are:
+
 **Play()** – can be used to play any clip, will repeatedly play the clip provided
+
 **PlayOneShot()** – will play the sounds only once when triggered
+
 **PlayDelayed()** – can use a delay parameter to cause a delay for when the sound should be played from when it is triggered or called
+
 **PlayScheduled()** – gives you a more accurate control over when the audio clip is played
 
 ---
