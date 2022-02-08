@@ -32,3 +32,13 @@ Some useful inbuilt functions to play sound in unity are:
 **PlayOneShot()** – will play the sounds only once when triggered
 **PlayDelayed()** – can use a delay parameter to cause a delay for when the sound should be played from when it is triggered or called
 **PlayScheduled()** – gives you a more accurate control over when the audio clip is played
+
+---
+<aside>
+
+> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+</aside>
+
+![discord_png](https://user-images.githubusercontent.com/44625252/152948137-97167a02-bba1-47b9-b33c-fb2ac41f11fc.png)
+
+---
