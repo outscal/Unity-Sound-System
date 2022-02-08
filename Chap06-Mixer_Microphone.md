@@ -14,6 +14,19 @@ You can also capture the settings of all the parameters in a group as a snapshot
 
 The final option, Views allow you to disable the visibility of certain groups within a mixer and set this as a view. This also helps you to make transition between different views as required by your game.
 
+# Microphone
+
+The Microphone class can be used to record an Audio clip using a connected microphone. The device property can be used to get a list of all connected microphone devices:
+
+![Listof_Microphones](https://user-images.githubusercontent.com/44625252/152988262-c9301539-2944-449c-b728-d81630299fb5.png)
+
+Other methods that can be used are
+**End** – Stops recording
+**GetDeviceCaps** – Get the frequency capabilities of a device
+**GetPosition** – Get the position in samples of the recording
+**IsRecording** – Check if the device is currently recording
+**Start** – Start recording with device
+
 ---
 <aside>
 
