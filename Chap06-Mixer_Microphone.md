@@ -22,9 +22,13 @@ The Microphone class can be used to record an Audio clip using a connected micro
 
 Other methods that can be used are
 **End** – Stops recording
+
 **GetDeviceCaps** – Get the frequency capabilities of a device
+
 **GetPosition** – Get the position in samples of the recording
+
 **IsRecording** – Check if the device is currently recording
+
 **Start** – Start recording with device
 
 ---
