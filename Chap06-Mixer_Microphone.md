@@ -21,6 +21,7 @@ The Microphone class can be used to record an Audio clip using a connected micro
 ![Listof_Microphones](https://user-images.githubusercontent.com/44625252/152988262-c9301539-2944-449c-b728-d81630299fb5.png)
 
 Other methods that can be used are
+
 **End** – Stops recording
 
 **GetDeviceCaps** – Get the frequency capabilities of a device
