@@ -8,7 +8,7 @@ As you have probably understood by now, sound system is an important part of any
 
 Can you make awesome sounds now? DO share your progress with us using the link below.
 
-![SoundsProblem!](https://media.giphy.com/media/H2u8O3SNx95OJAoGG1/giphy.gif)
+(https://media.giphy.com/media/H2u8O3SNx95OJAoGG1/giphy.gif)
 
 Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know how you're progressing.
 
