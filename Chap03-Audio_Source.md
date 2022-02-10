@@ -17,4 +17,4 @@ There are a lot of settings that you can tinker with to observe various ways of 
 
 Did you get any ideas on what type of sounds your game needs? Head on to the next chapter to learn some use cases of sounds in a game.
 
-![FunSound!](https://media.giphy.com/media/6KJFtVNjv7sNoBZSZY/giphy.gif)
+![](https://media.giphy.com/media/6KJFtVNjv7sNoBZSZY/giphy.gif)
