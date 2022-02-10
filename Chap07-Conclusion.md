@@ -16,9 +16,9 @@ Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtabl
 
 Make your own sound system in unity, add sounds and showcase to the world.
 
-You can also go through the 2D Platformer Course here - [Unity Courses](https://academy.outscal.com/unity-course-content/)
+You can also go through the 2D Platformer Course here - [Unity Courses](https://academy.outscal.com/unity-course-content/).
 
-If you have any doubts, I am always there to help, feel free to say hi, joining our community here [Discord](https://discord.com/invite/R4hfXhsWjN)? 
+If you have any doubts, I am always there to help, feel free to say hi, joining our community here [Discord](https://discord.com/invite/R4hfXhsWjN).
 
 Till next time!
 
