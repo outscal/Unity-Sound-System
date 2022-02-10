@@ -4,7 +4,7 @@ After creating a game with the graphics and programming for the game logic, you 
 
 So, put on your headset and microphone and start building some awesome sounds for your game.
 
-![Intro!](https://media.giphy.com/media/fYkWqB2Ay1VfuLaFU9/giphy-downsized-large.gif)
+![Intro!](https://media.giphy.com/media/LU0EPR6tWaNREI35hU/giphy.gif)
 
 Most of the standard audio file formats are playable in unity which also has features for playing sounds in 3D space. You can play around with these settings and create different sounds in required moments in your game. Even Unity can also record audio from any available microphone on a user's machine for use during gameplay or storage and transmission.
 
