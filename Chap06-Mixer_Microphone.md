@@ -1,5 +1,9 @@
 # Audio Mixer
 
+Have you wondered what a DJ does? Yes, mixing different sounds to create an even better one. Exactly what an audio mixer is used for.
+
+![Mixer!](https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif)
+
 Unity provides an efficient tool that can be used to mix various audio sources, apply different effects and also perform mastering. Mastering is a form of audio post production, it can make the appearance of your game very appealing and soothing to hear. You can open the Audio Mixer from Window->Audio->Audio Mixer or Ctrl+8 which is the default hotkey.
 
 ![AudioMixer_open](https://user-images.githubusercontent.com/44625252/152988019-c4ddfd84-3846-4b63-bfaa-b079a0293f96.png)
@@ -15,6 +19,10 @@ You can also capture the settings of all the parameters in a group as a snapshot
 The final option, Views allow you to disable the visibility of certain groups within a mixer and set this as a view. This also helps you to make transition between different views as required by your game.
 
 # Microphone
+
+Have you ever made a video? Or seen any youtuber recording with a mic in video? Of course, Unity also allows teh usage of microphone to record sounds.
+
+![Microphone!](https://media.giphy.com/media/eLjg1anm4bqkkX1DJE/giphy.gif)
 
 The Microphone class can be used to record an Audio clip using a connected microphone. The device property can be used to get a list of all connected microphone devices:
 
@@ -32,12 +40,7 @@ Other methods that can be used are
 
 **Start** – Start recording with device
 
----
-<aside>
+Try to record some audio with your computer system's inbuilt microphone and Unity's microphone. Is there any difference?
 
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
+![Both!](https://media.giphy.com/media/TtFqXVtOQkomI/giphy.gif)
 
-![discord_png](https://user-images.githubusercontent.com/44625252/152948137-97167a02-bba1-47b9-b33c-fb2ac41f11fc.png)
-
----
