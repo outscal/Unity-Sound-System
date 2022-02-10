@@ -6,6 +6,10 @@ Applying Audio effects can change the tone of your game and push it towards real
 
 The ordering can be changes anytime by opening the context menu in the inspector and selecting the Move up/Move Down commands. Of course, it is also possible to untick/tick the active states of the components, and the changes can also be applied by running a script at specific conditions. This needs to be carefully as some of these effects are also CPU intensive.
 
+Can you think of an audio effect that can be used to show a gun blast?
+
+![Gun Effects!](https://media.giphy.com/media/8TzpRpIxG4qvA0KLzR/giphy.gif)
+
 # Audio Reverb Zone
 
 Reverb zones are used for distorting the audio clip depending on where the audio listener is located inside the reverb zone. A very good example is when you are entering an underground tunnel, for example, where the sound needs to gradually change from a point where there is no ambient effect to a place where there is one.
@@ -16,12 +20,8 @@ Audio reverb filter can also be used that comes with a set of reverb presets alr
 
 ![Reverb_Preset](https://user-images.githubusercontent.com/44625252/152987746-e5eab7d4-ab29-406b-b163-5f0fdbdff9bf.png)
 
----
-<aside>
+Think of some scenarios where Reverb can be used in a game.
 
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
+![Reverb!](https://media.giphy.com/media/GLjbMKJdoob60/giphy.gif)
 
-![discord_png](https://user-images.githubusercontent.com/44625252/152948137-97167a02-bba1-47b9-b33c-fb2ac41f11fc.png)
-
----
+See you in the next one!
