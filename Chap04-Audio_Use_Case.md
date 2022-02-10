@@ -1,6 +1,11 @@
 # Use Case for using audio in a Game
 
-Let’s take a look at an example use case scenario for using audio in unity. The example below if of a 2D platformer where the player sounds and game sounds have been demonstrated.
+Enough theory, let's get ready to implement some sounds in our game!!!
+
+![VideoSound!](https://media.giphy.com/media/xUPJPjTKii41WYbZHW/giphy.gif)
+
+The example below if of a 2D platformer where the player sounds and game sounds have been demonstrated.
+
 Steps to add an audio clip for a specific sounds in an organised manner using singleton script:
 
 1. First step is to determine the audio clips that you will be needing for each scenario, the figure below shows an Audio folder in a unity project with different types of audio clips for different objects, environments and situations in the game
@@ -37,12 +42,6 @@ Some useful inbuilt functions to play sound in unity are:
 
 **PlayScheduled()** – gives you a more accurate control over when the audio clip is played
 
----
-<aside>
+Were you able to implement these concepts to add sounds to your game? Move ahead to learn few other audio features that Unity allows to implement.
 
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152948137-97167a02-bba1-47b9-b33c-fb2ac41f11fc.png)
-
----
+![NextChapter!](https://media.giphy.com/media/zbDHDmcXH5qa4/giphy.gif)
