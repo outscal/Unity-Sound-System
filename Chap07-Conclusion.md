@@ -10,6 +10,7 @@ Can you make awesome sounds now? Do share your progress with us using the link b
 
 ![Progress](https://media.giphy.com/media/zbDHDmcXH5qa4/giphy.gif)
 
+Ohh I almost forgot, you just earned **10 Learning points**. Keep going to earn rewards. Do the following to secure them.
 Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know how you're progressing.
 
 ## What's next
