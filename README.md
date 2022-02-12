@@ -25,8 +25,18 @@ Usually we have to deal with 2 main components related to Audio in Unity, which 
 1. Audio Listener
 2. Audio Source
 
+
 A closer look at these components in the next chapters will help understand the use cases for these and application in various scenarios. 
 
 ![MoveOnSB!](https://media.giphy.com/media/mgStALXN5ImLS/giphy.gif)
 
-Let's see if you can beat SpongeBob in making sounds!!!
+## Earn Learning points to get more rewards 🎁
+
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
+
+**Click on the gif below and follow the instructions** ⏬
+
+[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+
+
+All clear? Let's Get Started
