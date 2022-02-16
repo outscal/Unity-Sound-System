@@ -10,6 +10,17 @@ Can you make awesome sounds now? Do share your progress with us using the link b
 
 ![Progress](https://media.giphy.com/media/zbDHDmcXH5qa4/giphy.gif)
 
+
+## Earn Learning points to get more rewards 🎁
+
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
+
+**Click on the gif below and follow the instructions** ⏬
+
+[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+
+You can also click here - [Click Here!](https://academy.outscal.com/welcome/build-in-public/assignments)
+
 ## What's next
 
 Make your own sound system in unity, add sounds and showcase to the world.
