@@ -18,19 +18,101 @@ Steps to add an audio clip for a specific sounds in an organised manner using si
 
 3. Create the Global SoundManager script (use any name as you see fit) for the static instance that we can then use globally to play the specific sounds for specific scenarios
 
-![](https://user-images.githubusercontent.com/44625252/152986993-8696dfcb-f54f-4046-8095-686cf99180ff.png)
+```
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SoundManager : MonoBehaviour
+{
+
+    public AudioSource SoundSfx;
+
+    public AudioSource SoundBGMusic;
+
+    public UISoundType[] sounds;
+
+    public PlayerSoundType[] player_sounds;
+
+
+    //Singleton script for SoundManager Instance
+    private static SoundManager instance;
+    public static SoundManager Instance { get { return instance; } }
+
+    //Awake
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+    }
+}
+```
 
 4. Create functions that can be called by other classes, in our case we have a list of enums that would hold sounds for each type of character
 
-![](https://user-images.githubusercontent.com/44625252/152987039-60c311d5-e290-45e0-86b3-36b95b0d6cfd.png)
+```
+[Serializable]
+public class UISoundType
+{
+    public UISounds soundType;
+    public AudioClip soundClip;
+}
+[Serializable]
+public class PlayerSoundType
+{
+    public PlayerSounds soundType;
+    public AudioClip soundClip;
+}
+
+public enum UISounds
+{
+    ButtonClick,
+    LockedLevel,
+    GameBGMusic,
+    KeyPickup,
+    GameOver,
+    LevelWin
+}
+```
 
 5. To ease the process further, functions can be added as shown:
 
-![](https://user-images.githubusercontent.com/44625252/152987081-92f8c773-bc94-4151-beba-fa3b9fae0924.png)
+```
+private AudioClip getSoundClip(UISounds sound)
+{
+    UISoundType _soundtype =  Array.Find(sounds, s => s.soundType == sound);
+    if (_soundtype != null)
+        return _soundtype.soundClip;
+    return null;
+}
+private AudioClip getSoundClip(PlayerSounds sound)
+{
+    PlayerSoundType _soundtype = Array.Find(player_sounds, s => s.soundType == sound);
+    if (_soundtype != null)
+        return _soundtype.soundClip;
+    return null;
+}
+```
 
 6. Finally, all we need is to call those functions at required situations, for example, the below code calls the PlayOnce function using the SoundManager Instance
 
-![](https://user-images.githubusercontent.com/44625252/152987129-bd76d303-5af7-4316-a869-04e0cfbbbea4.png)
+```
+public void PickUpKey()
+{
+    Debug.Log("Player picked up the key");
+    scorecontroller.IncreaseScore(10);
+    SoundManager.Instance.PlayOnce(UISounds.KeyPickup);
+}
+```
 
 Some useful inbuilt functions to play sound in unity are:
 
