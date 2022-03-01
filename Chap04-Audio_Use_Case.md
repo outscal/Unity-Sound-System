@@ -126,4 +126,4 @@ Some useful inbuilt functions to play sound in unity are:
 
 Were you able to implement these concepts to add sounds to your game? Move ahead to learn few other audio features that Unity allows to implement.
 
-![NextChapter!](https://media.giphy.com/media/2MwMvBgxGEQwy1KUh0/giphy.gif)
+![](https://media.giphy.com/media/2MwMvBgxGEQwy1KUh0/giphy.gif)
