@@ -8,7 +8,7 @@ As you have probably understood by now, sound system is an important part of any
 
 Can you make awesome sounds now? Do share your progress with us using the link below.
 
-![Progress](https://media.giphy.com/media/zbDHDmcXH5qa4/giphy.gif)
+![](https://media.giphy.com/media/zbDHDmcXH5qa4/giphy.gif)
 
 
 ## Earn Learning points to get more rewards 🎁
@@ -31,4 +31,4 @@ If you have any doubts, I am always there to help, feel free to say hi, joining 
 
 Till next time!
 
-![See you!](https://media.giphy.com/media/l1J3CbFgn5o7DGRuE/giphy.gif)
+![](https://media.giphy.com/media/l1J3CbFgn5o7DGRuE/giphy.gif)
