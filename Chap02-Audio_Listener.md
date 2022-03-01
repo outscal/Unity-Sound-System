@@ -2,8 +2,6 @@
 
 Here's a trick question - What do you use to listen for sounds?
 
-![Ears!](https://media.giphy.com/media/vMqI26g7AvNcbDSLRN/giphy.gif)
-
 Duh! your ears ofcourse. Imagine what would happen if humans didn't have ears. Hmm, probably we would have all been deaf to sounds. So, a listener is essentially something that your game needs so that sounds can be caught and heard by the player at the other end. I wish we could add ears to Unity, but there is something better ofcourse. You get a ear that is customizable according to needs of your game.
 
 ![CustomiseEars!](https://media.giphy.com/media/MWKEOz30XSS253y1od/giphy.gif)
