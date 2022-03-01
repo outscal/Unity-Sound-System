@@ -26,7 +26,15 @@ Have you ever made a video? Or seen any youtuber recording with a mic in video? 
 
 The Microphone class can be used to record an Audio clip using a connected microphone. The device property can be used to get a list of all connected microphone devices:
 
-![](https://user-images.githubusercontent.com/44625252/152988262-c9301539-2944-449c-b728-d81630299fb5.png)
+```
+//Get list of Microphone devices and print the names to the log
+void Start()
+{
+  foreach (var device in Microphone.devices)
+  {
+    Debug.Log("Name: " + device);
+  }
+}
 
 Other methods that can be used are
 
