@@ -25,7 +25,7 @@ You can also click here - [Click Here!](https://academy.outscal.com/welcome/buil
 
 Make your own sound system in unity, add sounds and showcase to the world.
 
-You can also go through the 2D Platformer Course here - [Unity Courses](https://academy.outscal.com/unity-course-content/).
+You can continue to the final chapter of the 2D Platformer here - [Particle Systems](https://academy.outscal.com/unity-particle-system/).
 
 If you have any doubts, I am always there to help, feel free to say hi, joining our community here [Discord](https://discord.com/invite/R4hfXhsWjN).
 
